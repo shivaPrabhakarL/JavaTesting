@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4f31184-485a-4d8d-aef9-2cac451be2ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W4DrMhnYuCSb8bWY2hw7WujYBR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Testing" />
+  </component>
+  <component name="RunManager" selected="TestNG./home/shivap/IdeaProjects/Testing1/src/test/resources/SavyyTime.xml">
+    <configuration name="Savvy1Test.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prabhakar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prabhakar" />
+      <option name="MAIN_CLASS_NAME" value="com.prabhakar.Savvy1Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Savvy2Test.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prabhakar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prabhakar" />
+      <option name="MAIN_CLASS_NAME" value="com.prabhakar.Savvy2Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SavvyTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prabhakar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prabhakar" />
+      <option name="MAIN_CLASS_NAME" value="com.prabhakar.SavvyTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SavvyTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prabhakar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.prabhakar" />
+      <option name="MAIN_CLASS_NAME" value="com.prabhakar.SavvyTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/shivap/IdeaProjects/Testing1/src/test/resources/SavyyTime.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Testing1" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/SavyyTime.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./home/shivap/IdeaProjects/Testing1/src/test/resources/SavyyTime.xml" />
+        <item itemvalue="TestNG.SavvyTest.test" />
+        <item itemvalue="TestNG.Savvy2Test.test" />
+        <item itemvalue="TestNG.Savvy1Test.test" />
+        <item itemvalue="TestNG.SavvyTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4f31184-485a-4d8d-aef9-2cac451be2ce" name="Default Changelist" comment="" />
+      <created>1578400170413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578400170413</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="154" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1578582760357">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="440" y="154" width="524" height="484" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/49.27.1317.741@49.27.1317.741" timestamp="1578582760357" />
+    <state x="165" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578635370402">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="165" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/49.27.1317.741@49.27.1317.741" timestamp="1578635370402" />
+    <state x="149" y="125" width="1117" height="543" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1578635996106">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="149" y="125" width="1117" height="543" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/49.27.1317.741@49.27.1317.741" timestamp="1578635996106" />
+    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578400236423">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="490" y="154" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1578400236423" />
+    <state width="1271" height="194" key="GridCell.Tab.0.bottom" timestamp="1578637335894">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="194" key="GridCell.Tab.0.bottom/49.27.1317.741@49.27.1317.741" timestamp="1578637335894" />
+    <state width="1271" height="194" key="GridCell.Tab.0.center" timestamp="1578637335893">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="194" key="GridCell.Tab.0.center/49.27.1317.741@49.27.1317.741" timestamp="1578637335893" />
+    <state width="1271" height="194" key="GridCell.Tab.0.left" timestamp="1578637335892">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="194" key="GridCell.Tab.0.left/49.27.1317.741@49.27.1317.741" timestamp="1578637335892" />
+    <state width="1271" height="194" key="GridCell.Tab.0.right" timestamp="1578637335893">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state width="1271" height="194" key="GridCell.Tab.0.right/49.27.1317.741@49.27.1317.741" timestamp="1578637335893" />
+    <state x="240" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1578631609610">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="240" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/49.27.1317.741@49.27.1317.741" timestamp="1578631609610" />
+    <state x="261" y="147" width="883" height="498" key="caller.chooser.dialog" timestamp="1578584050609">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="261" y="147" width="883" height="498" key="caller.chooser.dialog/49.27.1317.741@49.27.1317.741" timestamp="1578584050609" />
+    <state x="371" y="175" key="run.anything.popup" timestamp="1578471573131">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="371" y="175" key="run.anything.popup/49.27.1317.741@49.27.1317.741" timestamp="1578471573131" />
+  </component>
+</project>

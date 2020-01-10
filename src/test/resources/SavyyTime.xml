@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="example suite 1" verbose="1" parallel="tests">
+    <test name="Regression suite 1">
+        <classes>
+            <class name="com.prabhakar.SavvyTest"/>
+            <class name="com.prabhakar.Savvy1Test"/>
+            <class name="com.prabhakar.Savvy2Test"/>
+        </classes>
+    </test>
+</suite>

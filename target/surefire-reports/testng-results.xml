@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="57431" started-at="2020-01-10T11:54:44 IST" finished-at="2020-01-10T11:55:42 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="57431" started-at="2020-01-10T11:54:44 IST" finished-at="2020-01-10T11:55:42 IST">
+      <class name="com.prabhakar.Savvy1Test">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.prabhakar.Savvy1Test@cc285f4]" name="test" duration-ms="19197" started-at="2020-01-10T11:54:44 IST" finished-at="2020-01-10T11:55:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.prabhakar.Savvy1Test -->
+      <class name="com.prabhakar.SampleTest">
+        <test-method status="PASS" signature="googleSearch()[pri:0, instance:com.prabhakar.SampleTest@55f3ddb1]" name="googleSearch" duration-ms="10804" started-at="2020-01-10T11:55:20 IST" finished-at="2020-01-10T11:55:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch -->
+      </class> <!-- com.prabhakar.SampleTest -->
+      <class name="com.prabhakar.Savvy2Test">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.prabhakar.Savvy2Test@8bd1b6a]" name="test" duration-ms="16499" started-at="2020-01-10T11:55:03 IST" finished-at="2020-01-10T11:55:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.prabhakar.Savvy2Test -->
+      <class name="com.prabhakar.SavvyTest">
+        <test-method status="PASS" signature="test()[pri:0, instance:com.prabhakar.SavvyTest@18be83e4]" name="test" duration-ms="10886" started-at="2020-01-10T11:55:31 IST" finished-at="2020-01-10T11:55:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- com.prabhakar.SavvyTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
